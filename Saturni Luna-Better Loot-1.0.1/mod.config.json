@@ -1,0 +1,9 @@
+{
+	"name": "Better Loot",
+	"author": "Saturni Luna",
+	"version": "1.0.1",
+	"license": "MIT",
+	"src": {
+		"src/script.js": "TamperModLoad"
+	}
+}
